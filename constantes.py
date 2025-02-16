@@ -2,6 +2,9 @@
 # Constantes de la ventana
 WIDTH = 800
 HEIGHT = 600
+PERSONAJE = 40
+PASTO = 64
+ARBOLES = 64
 
 #colores
 WHITE = (255, 255, 255)
